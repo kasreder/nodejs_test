@@ -4,6 +4,11 @@ steem.api.setOptions({url: 'https://api.steemit.com'});
 /*steem.api.getAccounts(['kview'], function(err, response){
   console.log(err, response);
 });
-*/
+
 steem.api.getState('/trends/funny', function(err, result){console.log(err, result);
+});
+*/
+
+steem.api.getDiscussionsByBlog({"tag": "kview", "limit":1}, function(err,result){
+  console.log(err, result);
 });
