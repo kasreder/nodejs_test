@@ -1,22 +1,5 @@
-{
-  "name": "nodejs_test",
-  "version": "1.0.0",
-  "description": "hello atom",
-  "main": "app.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kasreder/nodejs_test.git"
-  },
-  "author": "kasreder",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kasreder/nodejs_test/issues"
-  },
-  "homepage": "https://github.com/kasreder/nodejs_test#readme",
-  "dependencies": {
-    "steem": "^0.7.1"
-  }
-}
+//종류별로 모아놓은 사이트 검증아직 안됨
+https://github.com/bezkoder/nodejs-express-mysql   
+
+//1빠
+https://github.com/noohk329/nodejs-express-mysql
